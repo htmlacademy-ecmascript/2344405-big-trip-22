@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Иван Мазалов](https://up.htmlacademy.ru/ecmascript/22/user/2344405).
-* Наставник: `Yulia Volkova`.
+* Наставник: [Юлия Волкова](https://htmlacademy.ru/profile/id423707).
 
 ---
 
